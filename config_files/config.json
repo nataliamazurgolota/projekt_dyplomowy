@@ -1,0 +1,17 @@
+{  "datasets": {
+    "nypd_data": {
+      "dtypes": {
+        "NUMBER OF PERSONS INJURED": "float",
+        "NUMBER OF PERSONS KILLED": "float",
+        "NUMBER OF PEDESTRIANS INJURED": "int64",
+        "NUMBER OF PEDESTRIANS KILLED": "int64",
+        "NUMBER OF CYCLIST INJURED": "int64",
+        "NUMBER OF CYCLIST KILLED": "int64",
+        "NUMBER OF MOTORIST INJURED": "int64",
+        "NUMBER OF MOTORIST KILLED": "int64"
+      },
+      "directory": "/home/student/Pulpit/nypd.csv"
+    }
+  }
+}
+
